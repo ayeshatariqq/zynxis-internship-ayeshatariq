@@ -8,27 +8,37 @@ AI Systems & Automation Intern
 
 ## Weekly Progress
 
-### Week 1
-- Repository created
-- Completed Week 1 tasks
+## Week 1 - Python & Data Analysis Basics
 
-### Week 2
+### Tasks
+- Performed Exploratory Data Analysis (EDA)
+- Cleaned the dataset
+- Handled missing values
+- Generated visualizations
+- Summarized findings
+
+### Deliverables
+- Python notebook
+- Dataset
+- Findings report
+
+## Week 2
 - To be updated
 
-### Week 3
+## Week 3
 - To be updated
 
-### Week 4
+## Week 4
 - To be updated
 
-### Week 5
+## Week 5
 - To be updated
 
-### Week 6
+## Week 6
 - To be updated
 
-### Week 7
+## Week 7
 - To be updated
 
-### Week 8
+## Week 8
 - To be updated
