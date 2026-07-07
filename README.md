@@ -4,7 +4,7 @@
 Ayesha Tariq
 
 ## Discipline
-AI Systems & Automation Intern
+AI/ML Intern
 
 ## Weekly Progress
 
